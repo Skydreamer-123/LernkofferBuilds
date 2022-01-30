@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.80df81be.chunk.css",
+    "main.js": "./static/js/main.7f17c9fe.chunk.js",
+    "main.js.map": "./static/js/main.7f17c9fe.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.19e5c31f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.19e5c31f.js.map",
+    "static/js/2.7c57a410.chunk.js": "./static/js/2.7c57a410.chunk.js",
+    "static/js/2.7c57a410.chunk.js.map": "./static/js/2.7c57a410.chunk.js.map",
+    "static/js/3.9eda65f8.chunk.js": "./static/js/3.9eda65f8.chunk.js",
+    "static/js/3.9eda65f8.chunk.js.map": "./static/js/3.9eda65f8.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.80df81be.chunk.css.map": "./static/css/main.80df81be.chunk.css.map",
+    "static/js/2.7c57a410.chunk.js.LICENSE.txt": "./static/js/2.7c57a410.chunk.js.LICENSE.txt",
+    "static/media/Goal-SDG13.a5a81d4d.png": "./static/media/Goal-SDG13.a5a81d4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e5c31f.js",
+    "static/js/2.7c57a410.chunk.js",
+    "static/css/main.80df81be.chunk.css",
+    "static/js/main.7f17c9fe.chunk.js"
+  ]
+}

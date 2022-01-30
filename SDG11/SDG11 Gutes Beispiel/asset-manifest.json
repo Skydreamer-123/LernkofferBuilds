@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.58ff0c84.chunk.css",
+    "main.js": "./static/js/main.f8703c2f.chunk.js",
+    "main.js.map": "./static/js/main.f8703c2f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a36c92a3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a36c92a3.js.map",
+    "static/js/2.a83f08c5.chunk.js": "./static/js/2.a83f08c5.chunk.js",
+    "static/js/2.a83f08c5.chunk.js.map": "./static/js/2.a83f08c5.chunk.js.map",
+    "static/js/3.1575aabe.chunk.js": "./static/js/3.1575aabe.chunk.js",
+    "static/js/3.1575aabe.chunk.js.map": "./static/js/3.1575aabe.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.58ff0c84.chunk.css.map": "./static/css/main.58ff0c84.chunk.css.map",
+    "static/js/2.a83f08c5.chunk.js.LICENSE.txt": "./static/js/2.a83f08c5.chunk.js.LICENSE.txt",
+    "static/media/Goal-SDG11.884c794e.png": "./static/media/Goal-SDG11.884c794e.png",
+    "static/media/unknown.fca69eac.png": "./static/media/unknown.fca69eac.png",
+    "static/media/unknown1.c1bbf23d.jpg": "./static/media/unknown1.c1bbf23d.jpg",
+    "static/media/unknown2.4bfa8a89.png": "./static/media/unknown2.4bfa8a89.png",
+    "static/media/unknown3.47a45f59.jpg": "./static/media/unknown3.47a45f59.jpg",
+    "static/media/unknown4.3ca2a018.jpg": "./static/media/unknown4.3ca2a018.jpg",
+    "static/media/unknown6.e4b8cff0.jpg": "./static/media/unknown6.e4b8cff0.jpg",
+    "static/media/unknows5.071a893c.jpg": "./static/media/unknows5.071a893c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a36c92a3.js",
+    "static/js/2.a83f08c5.chunk.js",
+    "static/css/main.58ff0c84.chunk.css",
+    "static/js/main.f8703c2f.chunk.js"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.58ff0c84.chunk.css",
+    "main.js": "./static/js/main.df5f0dd8.chunk.js",
+    "main.js.map": "./static/js/main.df5f0dd8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a36c92a3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a36c92a3.js.map",
+    "static/js/2.1846a495.chunk.js": "./static/js/2.1846a495.chunk.js",
+    "static/js/2.1846a495.chunk.js.map": "./static/js/2.1846a495.chunk.js.map",
+    "static/js/3.1575aabe.chunk.js": "./static/js/3.1575aabe.chunk.js",
+    "static/js/3.1575aabe.chunk.js.map": "./static/js/3.1575aabe.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.58ff0c84.chunk.css.map": "./static/css/main.58ff0c84.chunk.css.map",
+    "static/js/2.1846a495.chunk.js.LICENSE.txt": "./static/js/2.1846a495.chunk.js.LICENSE.txt",
+    "static/media/Dr.TereraiTrent.8d752c5d.png": "./static/media/Dr.TereraiTrent.8d752c5d.png",
+    "static/media/Goal-SDG05.2f81f050.png": "./static/media/Goal-SDG05.2f81f050.png",
+    "static/media/GoetheUndSchiller.f0d272b5.png": "./static/media/GoetheUndSchiller.f0d272b5.png",
+    "static/media/LincolnMemorial.cbe0befe.png": "./static/media/LincolnMemorial.cbe0befe.png",
+    "static/media/NelsonMandela.a5e339c2.png": "./static/media/NelsonMandela.a5e339c2.png",
+    "static/media/RuthBaderGinsburg.4eced1aa.png": "./static/media/RuthBaderGinsburg.4eced1aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a36c92a3.js",
+    "static/js/2.1846a495.chunk.js",
+    "static/css/main.58ff0c84.chunk.css",
+    "static/js/main.df5f0dd8.chunk.js"
+  ]
+}

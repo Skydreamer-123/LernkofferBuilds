@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d949cce7.chunk.css",
+    "main.js": "./static/js/main.cdfdfbc9.chunk.js",
+    "main.js.map": "./static/js/main.cdfdfbc9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.813714b0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.813714b0.js.map",
+    "static/js/2.2310a774.chunk.js": "./static/js/2.2310a774.chunk.js",
+    "static/js/2.2310a774.chunk.js.map": "./static/js/2.2310a774.chunk.js.map",
+    "static/js/3.be465e20.chunk.js": "./static/js/3.be465e20.chunk.js",
+    "static/js/3.be465e20.chunk.js.map": "./static/js/3.be465e20.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d949cce7.chunk.css.map": "./static/css/main.d949cce7.chunk.css.map",
+    "static/js/2.2310a774.chunk.js.LICENSE.txt": "./static/js/2.2310a774.chunk.js.LICENSE.txt",
+    "static/media/Amanda Gorman.9578cea8.jpg": "./static/media/Amanda Gorman.9578cea8.jpg",
+    "static/media/Gloria Steinem.1d989198.jpg": "./static/media/Gloria Steinem.1d989198.jpg",
+    "static/media/Goal-SDG05.2f81f050.png": "./static/media/Goal-SDG05.2f81f050.png",
+    "static/media/Harriet Tubman.cf235717.jpg": "./static/media/Harriet Tubman.cf235717.jpg",
+    "static/media/Kamala Harris.24dc806c.jpg": "./static/media/Kamala Harris.24dc806c.jpg",
+    "static/media/Rosalind Franklind.e5eef221.jpg": "./static/media/Rosalind Franklind.e5eef221.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.813714b0.js",
+    "static/js/2.2310a774.chunk.js",
+    "static/css/main.d949cce7.chunk.css",
+    "static/js/main.cdfdfbc9.chunk.js"
+  ]
+}

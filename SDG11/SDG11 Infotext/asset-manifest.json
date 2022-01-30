@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d949cce7.chunk.css",
+    "main.js": "./static/js/main.ce3c436c.chunk.js",
+    "main.js.map": "./static/js/main.ce3c436c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3c61d034.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3c61d034.js.map",
+    "static/js/2.f9aadc21.chunk.js": "./static/js/2.f9aadc21.chunk.js",
+    "static/js/2.f9aadc21.chunk.js.map": "./static/js/2.f9aadc21.chunk.js.map",
+    "static/js/3.eb5fcd62.chunk.js": "./static/js/3.eb5fcd62.chunk.js",
+    "static/js/3.eb5fcd62.chunk.js.map": "./static/js/3.eb5fcd62.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d949cce7.chunk.css.map": "./static/css/main.d949cce7.chunk.css.map",
+    "static/js/2.f9aadc21.chunk.js.LICENSE.txt": "./static/js/2.f9aadc21.chunk.js.LICENSE.txt",
+    "static/media/EG2.d73a0902.png": "./static/media/EG2.d73a0902.png",
+    "static/media/Goal-SDG11.884c794e.png": "./static/media/Goal-SDG11.884c794e.png",
+    "static/media/test.31d6cfe0.mp3": "./static/media/test.31d6cfe0.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c61d034.js",
+    "static/js/2.f9aadc21.chunk.js",
+    "static/css/main.d949cce7.chunk.css",
+    "static/js/main.ce3c436c.chunk.js"
+  ]
+}
